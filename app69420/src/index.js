@@ -5,7 +5,7 @@ import App from './App';
 import reportWebVitals from './reportWebVitals';
 
 ReactDOM.render(
-  <h1> great doesnt suck 69420 </h1>,
+  <h1> </h1>,
  
   document.getElementById('root')
 );
